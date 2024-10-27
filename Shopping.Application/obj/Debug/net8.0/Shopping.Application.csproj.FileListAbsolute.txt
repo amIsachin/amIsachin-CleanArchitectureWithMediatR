@@ -1,0 +1,15 @@
+S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Application.deps.json
+S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Application.dll
+S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Application.pdb
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.csproj.AssemblyReference.cache
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.GeneratedMSBuildEditorConfig.editorconfig
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.AssemblyInfoInputs.cache
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.AssemblyInfo.cs
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.csproj.CoreCompileInputs.cache
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.dll
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\refint\Shopping.Application.dll
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.pdb
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\ref\Shopping.Application.dll
+S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Core.dll
+S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Core.pdb
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.34134BCC.Up2Date

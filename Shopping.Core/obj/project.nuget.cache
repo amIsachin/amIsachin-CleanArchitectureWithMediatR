@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzpsn5gmux4=",
+  "success": true,
+  "projectFilePath": "S:\\.Net\\Projects\\Shopping\\Shopping.Core\\Shopping.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amIsa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

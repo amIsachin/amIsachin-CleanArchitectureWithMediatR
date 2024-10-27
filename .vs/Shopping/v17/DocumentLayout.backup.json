@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\.Net\\Projects\\Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C04CD2-C4A7-4EF0-BAEB-A5FC81B1A723}|Shopping.Application\\Shopping.Application.csproj|s:\\.net\\projects\\shopping\\shopping.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C04CD2-C4A7-4EF0-BAEB-A5FC81B1A723}|Shopping.Application\\Shopping.Application.csproj|solutionrelative:shopping.application\\commands\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D78BDC-2194-4F3F-99DA-BA923A7ED68C}|Shopping.API\\Shopping.API.csproj|s:\\.net\\projects\\shopping\\shopping.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D78BDC-2194-4F3F-99DA-BA923A7ED68C}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D78BDC-2194-4F3F-99DA-BA923A7ED68C}|Shopping.API\\Shopping.API.csproj|s:\\.net\\projects\\shopping\\shopping.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D78BDC-2194-4F3F-99DA-BA923A7ED68C}|Shopping.API\\Shopping.API.csproj|solutionrelative:shopping.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C04CD2-C4A7-4EF0-BAEB-A5FC81B1A723}|Shopping.Application\\Shopping.Application.csproj|s:\\.net\\projects\\shopping\\shopping.application\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C04CD2-C4A7-4EF0-BAEB-A5FC81B1A723}|Shopping.Application\\Shopping.Application.csproj|solutionrelative:shopping.application\\depedencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA123814-0D69-417E-A3FC-14F6E37CB389}|Shopping.Infrastructure\\Shopping.Infrastructure.csproj|s:\\.net\\projects\\shopping\\shopping.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA123814-0D69-417E-A3FC-14F6E37CB389}|Shopping.Infrastructure\\Shopping.Infrastructure.csproj|solutionrelative:shopping.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCCAF24-0274-45C4-86C4-9AD52E2C96AD}|Shopping.Core\\Shopping.Core.csproj|s:\\.net\\projects\\shopping\\shopping.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCCAF24-0274-45C4-86C4-9AD52E2C96AD}|Shopping.Core\\Shopping.Core.csproj|solutionrelative:shopping.core\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA123814-0D69-417E-A3FC-14F6E37CB389}|Shopping.Infrastructure\\Shopping.Infrastructure.csproj|s:\\.net\\projects\\shopping\\shopping.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA123814-0D69-417E-A3FC-14F6E37CB389}|Shopping.Infrastructure\\Shopping.Infrastructure.csproj|solutionrelative:shopping.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\DependencyInjection.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.API\\DependencyInjection.cs",
+              "RelativeToolTip": "Shopping.API\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:46:08.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Shopping.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Shopping.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:35:46.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Shopping.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Shopping.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:32:10.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.Application\\Commands\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Shopping.Application\\Commands\\AddEmployeeCommand.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.Application\\Commands\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "Shopping.Application\\Commands\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:17:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepedencyInjection.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.Application\\DepedencyInjection.cs",
+              "RelativeDocumentMoniker": "Shopping.Application\\DepedencyInjection.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.Application\\DepedencyInjection.cs",
+              "RelativeToolTip": "Shopping.Application\\DepedencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:04:21.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Shopping.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.Core\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Shopping.Core\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:39:36.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "S:\\.Net\\Projects\\Shopping\\Shopping.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Shopping.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "S:\\.Net\\Projects\\Shopping\\Shopping.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Shopping.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:32:16.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

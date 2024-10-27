@@ -1,0 +1,12 @@
+S:\.Net\Projects\Shopping\Shopping.Core\bin\Debug\net8.0\Shopping.Core.deps.json
+S:\.Net\Projects\Shopping\Shopping.Core\bin\Debug\net8.0\Shopping.Core.dll
+S:\.Net\Projects\Shopping\Shopping.Core\bin\Debug\net8.0\Shopping.Core.pdb
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.csproj.AssemblyReference.cache
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.GeneratedMSBuildEditorConfig.editorconfig
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.AssemblyInfoInputs.cache
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.AssemblyInfo.cs
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.csproj.CoreCompileInputs.cache
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.dll
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\refint\Shopping.Core.dll
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.pdb
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\ref\Shopping.Core.dll

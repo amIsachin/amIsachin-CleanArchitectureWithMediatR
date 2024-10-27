@@ -1,0 +1,17 @@
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\bin\Debug\net8.0\Shopping.Infrastructure.deps.json
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\bin\Debug\net8.0\Shopping.Infrastructure.runtimeconfig.json
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\bin\Debug\net8.0\Shopping.Infrastructure.dll
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\bin\Debug\net8.0\Shopping.Infrastructure.pdb
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\bin\Debug\net8.0\Shopping.Core.dll
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\bin\Debug\net8.0\Shopping.Core.pdb
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.csproj.AssemblyReference.cache
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.AssemblyInfoInputs.cache
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.AssemblyInfo.cs
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.csproj.CoreCompileInputs.cache
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.D1A5AD78.Up2Date
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.dll
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\refint\Shopping.Infrastructure.dll
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.pdb
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\Shopping.Infrastructure.genruntimeconfig.cache
+S:\.Net\Projects\Shopping\Shopping.Infrastructure\obj\Debug\net8.0\ref\Shopping.Infrastructure.dll
