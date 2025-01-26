@@ -13,3 +13,4 @@ S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\ref\Shopping.App
 S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Core.dll
 S:\.Net\Projects\Shopping\Shopping.Application\bin\Debug\net8.0\Shopping.Core.pdb
 S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.34134BCC.Up2Date
+S:\.Net\Projects\Shopping\Shopping.Application\obj\Debug\net8.0\Shopping.Application.sourcelink.json

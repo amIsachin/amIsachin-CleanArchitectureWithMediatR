@@ -143,3 +143,4 @@ S:\.Net\Projects\Shopping\Shopping.API\obj\Debug\net8.0\Shopping.API.genruntimec
 S:\.Net\Projects\Shopping\Shopping.API\obj\Debug\net8.0\ref\Shopping.API.dll
 S:\.Net\Projects\Shopping\Shopping.API\bin\Debug\net8.0\MediatR.dll
 S:\.Net\Projects\Shopping\Shopping.API\bin\Debug\net8.0\MediatR.Contracts.dll
+S:\.Net\Projects\Shopping\Shopping.API\obj\Debug\net8.0\Shopping.API.sourcelink.json

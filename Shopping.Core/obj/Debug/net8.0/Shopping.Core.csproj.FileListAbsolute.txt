@@ -10,3 +10,4 @@ S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.dll
 S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\refint\Shopping.Core.dll
 S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.pdb
 S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\ref\Shopping.Core.dll
+S:\.Net\Projects\Shopping\Shopping.Core\obj\Debug\net8.0\Shopping.Core.sourcelink.json
